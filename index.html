@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="대한민국 지역별 박물관을 지도에서 찾고 공식 홈페이지로 이동하는 박물관 안내 지도">
+  <title>대한민국 박물관 지도</title>
+  <link rel="preconnect" href="https://unpkg.com">
+  <link rel="preconnect" href="https://tile.openstreetmap.org">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#" id="brandHome" aria-label="처음 화면">
+      <span class="brand-mark">M</span>
+      <span><b>박물관 지도</b><small>MUSEUM MAP OF KOREA</small></span>
+    </a>
+    <button id="homeBtn" class="ghost-btn" type="button">처음으로</button>
+  </header>
+
+  <main class="wrap">
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="kicker">EXPLORE KOREAN MUSEUMS</p>
+        <h1>우리 지역의 박물관을<br><em>지도에서 찾아보세요.</em></h1>
+        <p class="lead">지역을 선택하고 시·군별 박물관 정보를 확인한 뒤 공식 홈페이지로 이동할 수 있습니다.</p>
+      </div>
+      <div class="search-wrap">
+        <label for="globalSearch">박물관 통합 검색</label>
+        <div class="search-box">
+          <span aria-hidden="true">⌕</span>
+          <input id="globalSearch" type="search" placeholder="박물관 이름 또는 지역명 검색">
+          <button id="clearSearch" type="button" aria-label="검색어 지우기">×</button>
+        </div>
+        <p class="search-hint">검색 결과는 등록된 박물관 데이터 안에서 찾아요.</p>
+      </div>
+    </section>
+
+    <div class="breadcrumbs" aria-label="현재 위치">
+      <button id="crumbHome" type="button">대한민국</button>
+      <span id="crumbRegion"></span><span id="crumbCity"></span>
+    </div>
+
+    <section id="searchPanel" class="panel" hidden>
+      <div class="panel-head"><div><p class="kicker">SEARCH RESULTS</p><h2>검색 결과</h2></div><span id="searchCount" class="count"></span></div>
+      <div id="searchResults" class="museum-grid"></div>
+    </section>
+
+    <section id="homePanel" class="panel">
+      <div class="panel-head">
+        <div><p class="kicker">REGION SELECT</p><h2>대한민국 지역 선택</h2><p class="muted">지도에서 지역을 누르거나 오른쪽 목록에서 선택하세요.</p></div>
+        <span class="count">10개 지역</span>
+      </div>
+      <div class="map-layout">
+        <div id="koreaMap" class="map large-map" aria-label="대한민국 시도 경계 지도"></div>
+        <aside class="side-list"><h3>지역 목록</h3><div id="regionList" class="button-list"></div>
+          <p class="source-note">행정구역 경계 자료: 국가공간정보포털 기반 GeoJSON 가공본. 자세한 출처는 하단에 표시합니다.</p>
+        </aside>
+      </div>
+    </section>
+
+    <section id="cityPanel" class="panel" hidden>
+      <div class="panel-head">
+        <div><p class="kicker">CITY / COUNTY SELECT</p><h2 id="cityHeading">시·군 선택</h2><p class="muted">지도에서 시·군 경계를 선택하거나 목록에서 골라주세요.</p></div>
+        <button id="backRegions" class="outline-btn" type="button">지역 선택</button>
+      </div>
+      <div class="map-layout">
+        <div id="cityMap" class="map large-map" aria-label="시군구 경계 지도"></div>
+        <aside class="side-list"><h3>시·군 목록 <span id="cityCount" class="count"></span></h3><div id="cityList" class="button-list"></div></aside>
+      </div>
+    </section>
+
+    <section id="museumPanel" class="panel" hidden>
+      <div class="panel-head">
+        <div><p class="kicker">MUSEUM DIRECTORY</p><h2 id="museumHeading">박물관 목록</h2><p id="museumSubheading" class="muted">공식 홈페이지에서 상세 정보를 확인하세요.</p></div>
+        <button id="backCities" class="outline-btn" type="button">시·군 선택</button>
+      </div>
+      <div class="filter-row">
+        <label for="localSearch">이 지역에서 검색</label>
+        <input id="localSearch" type="search" placeholder="박물관 이름 검색">
+        <span id="museumCount" class="count"></span>
+      </div>
+      <div id="museumList" class="museum-grid"></div>
+    </section>
+
+    <section id="aboutPanel" class="about-panel">
+      <div><p class="kicker">ABOUT THIS PROJECT</p><h2>자료를 확인하고 연결합니다.</h2></div>
+      <p>이 사이트는 박물관의 공식 홈페이지로 이동할 수 있도록 연결 경로를 제공하는 안내 서비스입니다. 박물관의 명칭·주소·홈페이지 정보는 확인된 자료만 등록하고, 정보의 기준일과 출처를 함께 관리하는 것을 원칙으로 합니다.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 대한민국 박물관 지도 · 비공식 박물관 안내 서비스</p>
+    <p>행정구역 경계: 국가공간정보포털(V-World) 기반 가공 자료 · 배경지도: OpenStreetMap</p>
+    <p>박물관 정보는 각 기관의 공식 홈페이지 및 공공데이터 출처를 확인해 등록해야 합니다.</p>
+  </footer>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

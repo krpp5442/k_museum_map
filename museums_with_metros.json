@@ -1291,6 +1291,820 @@
       "cityName": "광주광역시",
       "category": "공립",
       "website": "https://gbfmc.or.kr/namdofood/"
-    }
+    },
+    {
+      "id": "museum-143",
+      "name": "한국초콜릿연구소뮤지엄",
+      "regionId": "gyeonggi",
+      "regionName": "경기도",
+      "cityName": "가평군",
+      "category": "사립",
+      "website": "https://www.koreachocolate.com/"
+    },
+    {
+      "id": "museum-144",
+      "name": "국립여성사전시관",
+      "regionId": "gyeonggi",
+      "regionName": "경기도",
+      "cityName": "고양시",
+      "category": "국립",
+      "website": "https://eherstory.mogef.go.kr/"
+    },
+    {
+      "id": "museum-145",
+      "name": "추사박물관",
+      "regionId": "gyeonggi",
+      "regionName": "경기도",
+      "cityName": "과천시",
+      "category": "공립",
+      "website": "https://www.gccity.go.kr/chusamuseum/main.do"
+    },
+    {
+      "id": "museum-146",
+      "name": "충현박물관",
+      "regionId": "gyeonggi",
+      "regionName": "경기도",
+      "cityName": "광명시",
+      "category": "사립",
+      "website": "http://www.chunghyeon.org/"
+    },
+    {
+      "id": "museum-147",
+      "name": "고구려대장간마을",
+      "regionId": "gyeonggi",
+      "regionName": "경기도",
+      "cityName": "구리시",
+      "category": "공립",
+      "website": "https://www.guri.go.kr/gbv/index.do"
+    },
+    {
+      "id": "museum-149",
+      "name": "그림책꿈마루",
+      "regionId": "gyeonggi",
+      "regionName": "경기도",
+      "cityName": "군포시",
+      "category": "공립",
+      "website": "https://www.gunpo.go.kr/picturebook/"
+    },
+    {
+      "id": "museum-150",
+      "name": "김포시독립운동기념관",
+      "regionId": "gyeonggi",
+      "regionName": "경기도",
+      "cityName": "김포시",
+      "category": "공립",
+      "website": "https://www.fgy.or.kr/1931gimpo/PageLink.do"
+    },
+    {
+      "id": "museum공립",
+      "website": "https://oidomuseum.siheung.go.kr/index.hs"
+    },
+    {
+      "id": "museum-154",
+      "name": "안성맞춤박물관",
+      "regionId": "gyeonggi",
+      "regionName": "경기도",
+      "cityName": "안성시",
+      "category": "공립",
+      "website": "https://www.anseong.go.kr/tourPortal/museum/main.do"
+    },
+    {
+      "id": "museum-155",
+      "name": "안양박물관",
+      "regionId": "gyeonggi",
+      "regionName": "경기도",
+      "cityName": "안양시",
+      "category": "공립",
+      "website": "https://ayac.or.kr/museum/main/view"
+    },
+    {
+      "id": "museum-156",
+      "name": "양주시립회암사지박물관",
+      "regionId": "gyeonggi",
+      "regionName": "경기도",
+      "cityName": "양주시",
+      "category": "공립",
+      "website": "https://www.yangju.go.kr/museum/index.do"
+    },
+    {
+      "id": "museum-157",
+      "name": "양평친환경농업박물관",
+      "regionId": "gyeonggi",
+      "regionName": "경기도",
+      "cityName": "양평시",
+      "category": "공립",
+      "website": "https://www.yp21.go.kr/museumhub/contents.do?key=992"
+    },
+    {
+      "id": "museum-158",
+      "name": "여주박물관",
+      "regionId": "gyeonggi",
+      "regionName": "경기도",
+      "cityName": "여주시",
+      "category": "공립",
+      "website": "https://www.yeoju.go.kr/museum/index.do"
+    },
+    {
+      "id": "museum-159",
+      "name": "전곡선사박물관",
+      "regionId": "gyeonggi",
+      "regionName": "경기도",
+      "cityName": "연천군",
+      "category": "공립",
+      "website": "https://jgpm.ggcf.kr/"
+    },
+    {
+      "id": "museum-160",
+      "name": "유엔군 초전기념관",
+      "regionId": "gyeonggi",
+      "regionName": "경기도",
+      "cityName": "오산시",
+      "category": "공립",
+      "website": "https://www.osan.go.kr/osanunm/main.do"
+    },
+    {
+      "id": "museum-161",
+      "name": "의왕향토사료관",
+      "regionId": "gyeonggi",
+      "regionName": "경기도",
+      "cityName": "의왕시",
+      "category": "공립",
+      "website": "https://www.uiwang.go.kr/culture/UWTOURSEE0401"
+    },
+    {
+      "id": "museum-162",
+      "name": "이천시립박물관",
+      "regionId": "gyeonggi",
+      "regionName": "경기도",
+      "cityName": "이천시",
+      "category": "공립",
+      "website": "https://www.artic.or.kr/icmus/main/view"
+    },
+    {
+      "id": "museum-163",
+      "name": "국립 6·25전쟁납북자기념관",
+      "regionId": "gyeonggi",
+      "regionName": "경기도",
+      "cityName": "파주시",
+      "category": "국립",
+      "website": "https://www.abductions625.go.kr/index.do"
+    },
+    {
+      "id": "museum-164",
+      "name": "평택민속박물관",
+      "regionId": "gyeonggi",
+      "regionName": "경기도",
+      "cityName": "평택시",
+      "category": "사립",
+      "website": "http://ptmuseum.co.kr/"
+    },
+    {
+      "id": "museum-165",
+      "name": "포천역사문화관",
+      "regionId": "gyeonggi",
+      "regionName": "경기도",
+      "cityName": "포천시",
+      "category": "공립",
+      "website": "https://www.pocheon.go.kr/much/index.do"
+    },
+    {
+      "id": "museum-166",
+      "name": "하남역사박물관",
+      "regionId": "gyeonggi",
+      "regionName": "경기도",
+      "cityName": "하남시",
+      "category": "공립",
+      "website": "https://www.hnart.or.kr/museum/index.do"
+    },
+    {
+      "id": "museum-167",
+      "name": "화성시역사박물관",
+      "regionId": "gyeonggi",
+      "regionName": "경기도",
+      "cityName": "화성시",
+      "category": "공립",
+      "website": "https://hsmuseum.hscity.go.kr/hsMuseum/index.jsp"
+    },
+    {
+      "id": "museum-168",
+      "name": "연필뮤지엄",
+      "regionId": "gangwon",
+      "regionName": "강원도",
+      "cityName": "동해시",
+      "category": "사립",
+      "website": "https://www.pencilmuseum.co.kr/"
+    },
+    {
+      "id": "museum-169",
+      "name": "삼척시립박물관",
+      "regionId": "gangwon",
+      "regionName": "강원도",
+      "cityName": "삼척시",
+      "category": "공립",
+      "website": "https://www.samcheok.go.kr/specialty/00468/00891.web"
+    },
+    {
+      "id": "museum-170",
+      "name": "오산리선사유적박물관",
+      "regionId": "gangwon",
+      "regionName": "강원도",
+      "cityName": "양양군",
+      "category": "공립",
+      "website": "https://www.yangyang.go.kr/gw/osm"
+    },
+    {
+      "id": "museum-171",
+      "name": "단종역사관",
+      "regionId": "gangwon",
+      "regionName": "강원도",
+      "cityName": "영월군",
+      "category": "공립",
+      "website": "http://www.ywmuseum.com/museum/index.do?museum_no=8#a"
+    },
+    {
+      "id": "museum-172",
+      "name": "인제산촌민속박물관",
+      "regionId": "gangwon",
+      "regionName": "강원도",
+      "cityName": "인제군",
+      "category": "공립",
+      "website": "https://www.mvfm.kr/"
+    },
+    {
+      "id": "museum-173",
+      "name": "아리랑박물관",
+      "regionId": "gangwon",
+      "regionName": "강원도",
+      "cityName": "정선군",
+      "category": "공립",
+      "website": "https://museum.jacf.or.kr/museum/index.php"
+    },
+    {
+      "id": "museum-174",
+      "name": "철원역사문화공원",
+      "regionId": "gangwon",
+      "regionName": "강원도",
+      "cityName": "철원군",
+      "category": "공립",
+      "website": "https://www.cwg.go.kr/tour/contents.do?key=1714"
+    },
+    {
+      "id": "museum-175",
+      "name": "국립조선왕조실록박물관",
+      "regionId": "gangwon",
+      "regionName": "강원도",
+      "cityName": "평창군",
+      "category": "국립",
+      "website": "https://sillok.gogung.go.kr/sillok/main/main.do"
+    },
+    {
+      "id": "museum-176",
+      "name": "홍천박물관",
+      "regionId": "gangwon",
+      "regionName": "강원도",
+      "cityName": "홍천군",
+      "category": "공립",
+      "website": "https://www.hongcheon.go.kr/museum/hcm/"
+    },
+    {
+      "id": "museum-177",
+      "name": "화천박물관",
+      "regionId": "gangwon",
+      "regionName": "강원도",
+      "cityName": "화천군",
+      "category": "공립",
+      "website": "https://www.hcmuseum.kr/"
+    },
+    {
+      "id": "museum-178",
+      "name": "한얼문예박물관",
+      "regionId": "gangwon",
+      "regionName": "강원도",
+      "cityName": "횡성군",
+      "category": "사립",
+      "website": "http://hemuseum.net/main.php"
+    },
+    {
+      "id": "museum-179",
+      "name": "농업역사박물관",
+      "regionId": "chungbuk",
+      "regionName": "충청북도",
+      "cityName": "괴산군",
+      "category": "사립",
+      "website": "https://www.goesan.go.kr/museum/index.do"
+    },
+    {
+      "id": "museum-180",
+      "name": "향토민속자료전시관",
+      "regionId": "chungbuk",
+      "regionName": "충청북도",
+      "cityName": "보은군",
+      "category": "공립",
+      "website": "https://tour.chungbuk.go.kr/www/selectTourCntnts.do?key=60&tourNo=556&searchMainSe=ATTR"
+    },
+    {
+      "id": "museum-181",
+      "name": "난계국악박물관",
+      "regionId": "chungbuk",
+      "regionName": "충청북도",
+      "cityName": "영동군",
+      "category": "공립",
+      "website": "https://www.yd21.go.kr/gugak/html/sub02/020201.html"
+    },
+    {
+      "id": "museum-182",
+      "name": "옥천향토전시시관",
+      "regionId": "chungbuk",
+      "regionName": "충청북도",
+      "cityName": "옥천군",
+      "category": "공립",
+      "website": "https://www.oc.go.kr/tour/contents.do?key=3875"
+    },
+    {
+      "id": "museum-183",
+      "name": "반기문평화기념관",
+      "regionId": "chungbuk",
+      "regionName": "충청북도",
+      "cityName": "음성군",
+      "category": "립",
+      "website": "https://www.eumseong.go.kr/Banki-moonpeacemuseum/index.do"
+    },
+    {
+      "id": "museum-184",
+      "name": "증평민속체험박물관",
+      "regionId": "chungbuk",
+      "regionName": "충청북도",
+      "cityName": "증평군",
+      "category": "공립",
+      "website": "https://www.jp.go.kr/museum.do"
+    },
+    {
+      "id": "museum-185",
+      "name": "금산역사문화박물관",
+      "regionId": "chungnam",
+      "regionName": "충청남도",
+      "cityName": "금산군",
+      "category": "공립",
+      "website": "https://www.geumsan.go.kr/museum/"
+    },
+    {
+      "id": "museum-186",
+      "name": "백제군사박물관",
+      "regionId": "chungnam",
+      "regionName": "충청남도",
+      "cityName": "논산시",
+      "category": "공립",
+      "website": "https://www.nonsan.go.kr/museum/"
+    },
+    {
+      "id": "museum-187",
+      "name": "기지시줄다리기박물관",
+      "regionId": "chungnam",
+      "regionName": "충청남도",
+      "cityName": "당진시",
+      "category": "공립",
+      "website": "https://www.dangjin.go.kr/prog/tursmCn/tour/sub02_02_07/view.do?cntno=86"
+    },
+    {
+      "id": "museum-188",
+      "name": "보령박물관",
+      "regionId": "chungnam",
+      "regionName": "충청남도",
+      "cityName": "보령시",
+      "category": "공립",
+      "website": "https://www.brcn.go.kr/culture/kor/sub02_01.do"
+    },
+    {
+      "id": "museum-189",
+      "name": "국립해양생물자원관",
+      "regionId": "chungnam",
+      "regionName": "충청남도",
+      "cityName": "서천군",
+      "category": "국립",
+      "website": "https://www.mabik.re.kr/"
+    },
+    {
+      "id": "museum-190",
+      "name": "영인산산림박물관",
+      "regionId": "chungnam",
+      "regionName": "충청남도",
+      "cityName": "아산시",
+      "category": "공립",
+      "website": "https://museum.asanfmc.or.kr/museum/"
+    },
+    {
+      "id": "museum-191",
+      "name": "윤봉길의사기념관",
+      "regionId": "chungnam",
+      "regionName": "충청남도",
+      "cityName": "예산군",
+      "category": "공립",
+      "website": "https://www.yesan.go.kr/ybgm.do"
+    },
+    {
+      "id": "museum-192",
+      "name": "백제문화체험박물관",
+      "regionId": "chungnam",
+      "regionName": "충청남도",
+      "cityName": "청양군",
+      "category": "공립",
+      "website": "https://www.cheongyang.go.kr/museum.do"
+    },
+    {
+      "id": "museum-193",
+      "name": "홍주성역사관",
+      "regionId": "chungnam",
+      "regionName": "충청남도",
+      "cityName": "홍성군",
+      "category": "공립",
+      "website": "https://www.hongseong.go.kr/history/index.do"
+    },
+    {
+      "id": "museum-194",
+      "name": "벽골제농경문화박물관",
+      "regionId": "jeonbuk",
+      "regionName": "전북특별자치도",
+      "cityName": "김제시",
+      "category": "공립",
+      "website": "https://www.gimje.go.kr/byeokgolje/index.gimje?menuCd=DOM_000002002001000000"
+    },
+    {
+      "id": "museum-195",
+      "name": "곤충박물관",
+      "regionId": "jeonbuk",
+      "regionName": "전북특별자치도",
+      "cityName": "무주군",
+      "category": "공립",
+      "website": "https://tour.muju.go.kr/bandiland/contents.do?key=404"
+    },
+    {
+      "id": "museum-196",
+      "name": "순창장류박물관",
+      "regionId": "jeonbuk",
+      "regionName": "전북특별자치도",
+      "cityName": "순창군",
+      "category": "공립",
+      "website": "http://jbmuseum.or.kr/bbs/board.php?bo_table=b_01&wr_id=64&sfl=wr_4&stx=%EC%88%9C%EC%B0%BD&sop=and"
+    },
+    {
+      "id": "museum-197",
+      "name": "신평생활사박물관",
+      "regionId": "jeonbuk",
+      "regionName": "전북특별자치도",
+      "cityName": "임실군",
+      "category": "공립",
+      "website": "https://www.imsil.go.kr/tour/board/view.imsil?menuCd=DOM_000000202002000000&boardId=BBS_0000050&dataSid=638"
+    },
+    {
+      "id": "museum-198",
+      "name": "장수역사전시관",
+      "regionId": "jeonbuk",
+      "regionName": "전북특별자치도",
+      "cityName": "장수군",
+      "category": "공립",
+      "website": "https://museum.jangsu.go.kr/"
+    },
+    {
+      "id": "museum-199",
+      "name": "정읍시립박물관",
+      "regionId": "jeonbuk",
+      "regionName": "전북특별자치도",
+      "cityName": "정읍시",
+      "category": "공립",
+      "website": "https://www.jeongeup.go.kr/culture/index.jeongeup?menuCd=DOM_000000608001000000&cpath="
+    },
+    {
+      "id": "museum-200",
+      "name": "진안역사박물관",
+      "regionId": "jeonbuk",
+      "regionName": "전북특별자치도",
+      "cityName": "진안군",
+      "category": "공립",
+      "website": "https://jinan.go.kr/museum/"
+    },
+    {
+      "id": "museum-201",
+      "name": "고흥분청문화박물관",
+      "regionId": "jeonnam",
+      "regionName": "전라남도",
+      "cityName": "고흥군",
+      "category": "공립",
+      "website": "https://buncheong.goheung.go.kr/site/buncheong"
+    },
+    {
+      "id": "museum-202",
+      "name": "광양장도박물관",
+      "regionId": "jeonnam",
+      "regionName": "전라남도",
+      "cityName": "광양시",
+      "category": "공립",
+      "website": "https://gwangyang.go.kr/tour/gallery.es?mid=a30102010000&bid=0008&act=view&list_no=11110"
+    },
+    {
+      "id": "museum-203",
+      "name": "지리산역사문화관",
+      "regionId": "jeonnam",
+      "regionName": "전라남도",
+      "cityName": "구례군",
+      "category": "공립",
+      "website": "http://jirisan.gurye.go.kr/"
+    },
+    {
+      "id": "museum-204",
+      "name": "한국대나무박물관",
+      "regionId": "jeonnam",
+      "regionName": "전라남도",
+      "cityName": "담양군",
+      "category": "공립",
+      "website": "https://www.damyang.go.kr/museum/index.damyang"
+    },
+    {
+      "id": "museum-205",
+      "name": "철새박물관",
+      "regionId": "jeonnam",
+      "regionName": "전라남도",
+      "cityName": "신안군",
+      "category": "공립",
+      "website": "https://www.shinan.go.kr/home/museum/museum03/museum05_24"
+    },
+    {
+      "id": "museum-206",
+      "name": "여수민속전시관",
+      "regionId": "jeonnam",
+      "regionName": "전라남도",
+      "cityName": "여수시",
+      "category": "공립",
+      "website": "https://www.yeosu.go.kr/www/sphere/culture/tradition"
+    },
+    {
+      "id": "museum-207",
+      "name": "옥당박물관",
+      "regionId": "jeonnam",
+      "regionName": "전라남도",
+      "cityName": "영광군",
+      "category": "사립",
+      "website": "https://www.yeonggwang.go.kr/tour2?site=tour_2019&mn=7411&type=view&t_idx=4327"
+    },
+    {
+      "id": "museum-208",
+      "name": "필암서원 유물전시관",
+      "regionId": "jeonnam",
+      "regionName": "전라남도",
+      "cityName": "장성군",
+      "category": "공립",
+      "website": "https://k-seowon.or.kr/?act=info.page&pcode=sub3_5"
+    },
+    {
+      "id": "museum-209",
+      "name": "시에그린한국시화박물관",
+      "regionId": "jeonnam",
+      "regionName": "전라남도",
+      "cityName": "진도군",
+      "category": "사립",
+      "website": "http://www.seagreen.co.kr/default/00/01.php"
+    },
+    {
+      "id": "museum-210",
+      "name": "황금박쥐특별전시관",
+      "regionId": "jeonnam",
+      "regionName": "전라남도",
+      "cityName": "힘평군",
+      "category": "공립",
+      "website": "https://www.hampyeong.go.kr/expopark/contentsView.do?pageId=expopark29"
+    },
+    {
+      "id": "museum-211",
+      "name": "화순군립 운주사문화관",
+      "regionId": "gyeongbuk",
+      "regionName": "경상북도",
+      "cityName": "화순군",
+      "category": "공립",
+      "website": "https://xn--zb0b8hw93alobo5m99bj5mrvej11bha.com/"
+    },
+    {
+      "id": "museum-212",
+      "name": "경산시립박물관",
+      "regionId": "gyeongbuk",
+      "regionName": "경상북도",
+      "cityName": "경산시",
+      "category": "공립",
+      "website": "https://www.gbgs.go.kr/museum/main.do"
+    },
+    {
+      "id": "museum-213",
+      "name": "대가야박물관",
+      "regionId": "gyeongbuk",
+      "regionName": "경상북도",
+      "cityName": "고령군",
+      "category": "공립",
+      "website": "https://www.goryeong.go.kr/daegaya/main/main.do"
+    },
+    {
+      "id": "museum-214",
+      "name": "구미성리학역사관",
+      "regionId": "gyeongbuk",
+      "regionName": "경상북도",
+      "cityName": "구미시",
+      "category": "공립",
+      "website": "https://www.gumi.go.kr/museum/"
+    },
+    {
+      "id": "museum-215",
+      "name": "김천시립박물관",
+      "regionId": "gyeongbuk",
+      "regionName": "경상북도",
+      "cityName": "김천시",
+      "category": "공립",
+      "website": "https://www.gc.go.kr/museum/main.do"
+    },
+    {
+      "id": "museum-216",
+      "name": "청량산박물관",
+      "regionId": "gyeongbuk",
+      "regionName": "경상북도",
+      "cityName": "봉화군",
+      "category": "공립",
+      "website": "https://www.bonghwa.go.kr/tour/contents.do?mid=0305020000"
+    },
+    {
+      "id": "museum-217",
+      "name": "성주 성산동 고분군 전시관",
+      "regionId": "gyeongbuk",
+      "regionName": "경상북도",
+      "cityName": "성주군",
+      "category": "공립",
+      "website": "https://sj.go.kr/goboongoon/main.do"
+    },
+    {
+      "id": "museum-218",
+      "name": "영덕어촌민속전시관",
+      "regionId": "gyeongbuk",
+      "regionName": "경상북도",
+      "cityName": "영덕군",
+      "category": "공립",
+      "website": "https://www.yd.go.kr/?page_id=2889"
+    },
+    {
+      "id": "museum-219",
+      "name": "인삼박물관",
+      "regionId": "gyeongbuk",
+      "regionName": "경상북도",
+      "cityName": "영주시",
+      "category": "공립",
+      "website": "https://www.yeongju.go.kr/insam/index.do"
+    },
+    {
+      "id": "museum-220",
+      "name": "영천역사박물관",
+      "regionId": "gyeongbuk",
+      "regionName": "경상북도",
+      "cityName": "영천시",
+      "category": "사립",
+      "website": "http://www.yeongcheonmuseum.com/"
+    },
+    {
+      "id": "museum-221",
+      "name": "예천박물관",
+      "regionId": "gyeongbuk",
+      "regionName": "경상북도",
+      "cityName": "예천군",
+      "category": "공공립",
+      "website": "https://www.ycg.kr/open.content/museum/"
+    },
+    {
+      "id": "museum-222",
+      "name": "독도박물관",
+      "regionId": "gyeongbuk",
+      "regionName": "경상북도",
+      "cityName": "울릉군",
+      "category": "공립",
+      "website": "https://www.dokdomuseum.go.kr/ko/main.do"
+    },
+    {
+      "id": "museum-223",
+      "name": "의성조문국박물관",
+      "regionId": "gyeongbuk",
+      "regionName": "경상북도",
+      "cityName": "의성군",
+      "category": "공립",
+      "website": "https://www.usc.go.kr/jmgmuseum/"
+    },
+    {
+      "id": "museum-224",
+      "name": "청송백자전시관",
+      "regionId": "gyeongbuk",
+      "regionName": "경상북도",
+      "cityName": "청송군",
+      "category": "공립",
+      "website": "https://www.cs.go.kr/tour/00004557/00004574.web?idx=120&amode=view"
+    },
+    {
+      "id": "museum-225",
+      "name": "칠곡호국평화기념관",
+      "regionId": "gyeongbuk",
+      "regionName": "경상북도",
+      "cityName": "칠곡군",
+      "category": "공립",
+      "website": "https://www.much.go.kr/cooperation/net/chi.do"
+    },
+    {
+      "id": "museum-226",
+      "name": "거제박물관",
+      "regionId": "gyeongnam",
+      "regionName": "경상남도",
+      "cityName": "거제시",
+      "category": "사립",
+      "website": "http://gjmuseum.or.kr/"
+    },
+    {
+      "id": "museum-227",
+      "name": "남해탈공연박물관",
+      "regionId": "gyeongnam",
+      "regionName": "경상남도",
+      "cityName": "남해군",
+      "category": "공립",
+      "website": "https://www.namhae.go.kr/tour/00917/00022/00214.web"
+    },
+    {
+      "id": "museum-228",
+      "name": "밀양시립박물관",
+      "regionId": "gyeongnam",
+      "regionName": "경상남도",
+      "cityName": "밀양시",
+      "category": "공립",
+      "website": "https://www.miryang.go.kr/msm/index.do"
+    },
+    {
+      "id": "museum-229",
+      "name": "박재삼문학관",
+      "regionId": "gyeongnam",
+      "regionName": "경상남도",
+      "cityName": "사천시",
+      "category": "공립",
+      "website": "https://www.sacheon.go.kr/life/04063/04064.web"
+    },
+    {
+      "id": "museum-230",
+      "name": "산청박물관",
+      "regionId": "gyeongnam",
+      "regionName": "경상남도",
+      "cityName": "산청군",
+      "category": "공립",
+      "website": "https://www.sancheong.go.kr/schmuseum/index.do#n"
+    },
+    {
+      "id": "museum-231",
+      "name": "의병박물관",
+      "regionId": "gyeongnam",
+      "regionName": "경상남도",
+      "cityName": "의령군",
+      "category": "공립",
+      "website": "https://www.uiryeong.go.kr/index.uiryeong?menuCd=DOM_000000303001000000"
+    },
+    {
+      "id": "museum-232",
+      "name": "창녕박물관",
+      "regionId": "gyeongnam",
+      "regionName": "경상남도",
+      "cityName": "창녕군",
+      "category": "공립",
+      "website": "https://www.cng.go.kr/01656/01671.web"
+    },
+    {
+      "id": "museum-233",
+      "name": "통영시립박물관",
+      "regionId": "gyeongnam",
+      "regionName": "경상남도",
+      "cityName": "통영시",
+      "category": "공립",
+      "website": "https://museum.tongyeong.go.kr/main/main.php"
+    },
+    {
+      "id": "museum-234",
+      "name": "하동야생차박물관",
+      "regionId": "gyeongnam",
+      "regionName": "경상남도",
+      "cityName": "하동군",
+      "category": "공립",
+      "website": "http://www.hadongteamuseum.org/"
+    },
+    {
+      "id": "museum-235",
+      "name": "함양박물관",
+      "regionId": "gyeongnam",
+      "regionName": "경상남도",
+      "cityName": "함양군",
+      "category": "공립",
+      "website": "https://www.hygn.go.kr/museum.web"
+    },
+    {
+      "id": "museum-236",
+      "name": "감귤박물관",
+      "regionId": "jeju",
+      "regionName": "제주특별자치도",
+      "cityName": "서귀포시",
+      "category": "공립",
+      "website": "https://culture.seogwipo.go.kr/citrus/index.htm#"
+    },
   ]
 }
